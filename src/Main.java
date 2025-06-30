@@ -17,6 +17,5 @@ public class Main {
         System.out.println("Máximo: " + Collections.max(task1List));
         System.out.println("Resultado: " + (Collections.max(task1List) - Collections.min(task1List)));
 
-
     }
 }
